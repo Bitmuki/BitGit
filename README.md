@@ -1,2 +1,3 @@
 # BitGit
+Template
 
